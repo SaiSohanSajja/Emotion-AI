@@ -192,6 +192,3 @@ pip install tensorflow keras opencv-python numpy
 Machine Learning | Computer Vision | Affective AI  | Natural Language Processing
 
 ---
-
-
-- Validation Accuracy: XX%  
