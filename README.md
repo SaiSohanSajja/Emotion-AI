@@ -189,10 +189,9 @@ pip install tensorflow keras opencv-python numpy
 ## ✍️ Author
 
 **Sai Sohan Sajja**  
-Machine Learning | Computer Vision | Affective AI  
+Machine Learning | Computer Vision | Affective AI  | Natural Language Processing
 
 ---
 
-## 📈 Results (Add Your Metrics Here)
 
 - Validation Accuracy: XX%  
